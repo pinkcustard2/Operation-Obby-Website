@@ -14,6 +14,15 @@ body {
 	background-color: rgb(255,0,0);
 	color: rgb(50,0,300);
 }
+#stages{
+  color:rgb(190, 153, 0);
+  padding: 5px;
+  background-color: rgb(21, 0, 134);
+}
+#stages:hover{
+  color:red;
+    background-color: rgb(0, 0, 0);
+}
 ul {
   list-style-type: none;
   margin: 0;
